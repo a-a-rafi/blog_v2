@@ -1,13 +1,8 @@
-### Day 59 Goals_ What you'll make by the end of today
 
-Previously we've built a simple blog with simple CSS styling. 
-It had no fancy animations and was not mobile responsive. Now that we've learnt all about Bootstrap and how much time it can save us, we're going to upgrade our blog with the power of Bootstrap.
-
-The best part? We don't even have to write the Bootstrap code.
 
 **Bootstrap Templates**
 
-On the internet, there are hundreds of thousands of free Bootstrap templates. Beautifully designed websites using Bootstrap that are ready to go. All we need is to understand how Bootstrap works (Day 58) and then we can simply customise these beautiful websites for our own purposes.
+On the internet, there are hundreds of thousands of free Bootstrap templates. Beautifully designed websites using Bootstrap that are ready to go. All we need is to understand how Bootstrap works and then we can simply customise these beautiful websites for our own purposes.
 
 e.g.
 
@@ -17,9 +12,9 @@ https://getbootstrap.com/docs/4.0/examples/
 
 https://www.creative-tim.com/bootstrap-themes/free
 
-**What you Will Build**
+**What we Will Build**
 
-By the end of today, you will build a blog website with these features:
+By the end of this, you will build a blog website with these features:
 
 1. Multi-page website with an interactive navigation bar:
 
